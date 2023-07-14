@@ -63,3 +63,5 @@ This repository acts as a showcase for the various things I build to get a suita
 You may also be interested in the following projects:
 * [3040 CNC marlin](https://github.com/thob97/3040-CNC-marlin.git)
 * [3D Printed Beamer](https://github.com/thob97/3d_printed_beamer.git)https://github.com/thob97/3d_printed_beamer.git
+* [QMK firmware for bm40hsrgb Keyboard in Neo Bone Layout](https://github.com/thob97/qmk_firmware_bm40hsrgb_v2_Neo_Bone.git)
+
